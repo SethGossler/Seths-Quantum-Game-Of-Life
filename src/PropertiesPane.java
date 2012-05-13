@@ -15,6 +15,7 @@ import javax.swing.border.TitledBorder;
 
 public class PropertiesPane extends JFrame
 {
+	/*This class is currently not used. It was made just to play with other methods*/
 	private static final long serialVersionUID = 1L;
 	boolean changed = false;
 	JComboBox resolution;
